@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=어저구%20저저구&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello%20Universe&fontSize=60)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangHyeSeon)](https://github.com/YangHyeSeon/github-readme-stats)
 
