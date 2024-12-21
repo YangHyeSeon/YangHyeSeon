@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello%20Universe&fontSize=60)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangHyeSeon)](https://github.com/YangHyeSeon/github-readme-stats)
-
 ![Java](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 
 ## Hi, there 👋
