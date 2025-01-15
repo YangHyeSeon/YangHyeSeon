@@ -7,10 +7,9 @@
 
 *제빵사*🍞
 
-- 🍒 age ... (2 X 10) + (2 X 3)
 - 🌟 how to reach me ... hspob819b@gmail.com
 - 🌙 Major in ... Law lol
-- 🐻 I currently am ... ~~homeProtector~~
+- 🐻 I currently am ... in SSAFY 
 - 🐱 I wanna be a ... Queen👑
 
 
